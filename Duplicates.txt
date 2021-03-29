@@ -1,0 +1,80 @@
+Files with similar headers and thus have to be differentiated manually. May or may not matter functionally.
+
+0738AD24.bin B_EX160.a.fm
+9D1EAC45.bin B_EX160_LV99.a.fm
+
+0F229918.bin B_CA020.a.fm
+4075F109.bin B_CA030.a.fm
+A810F4C9.bin B_CA040.a.fm
+
+1782BB91.bin N_HE010_BTL.a.fm
+98F49BD9.bin N_HE010_BTL_CLSM.a.fm
+
+17C5F6B2.bin B_HE030.a.fm
+3045AEC4.bin B_HE030_CLSM.a.fm
+7979C771.bin B_HE030_HE05.a.fm
+ADE99444.bin B_HE030_PART.a.fm
+
+1B451B49.bin N_NM070_BTL.a.fm
+C47FCB87.bin N_NM070_BTL_TOY.a.fm
+
+1CE883C6.bin B_EX120.a.fm
+3EA410D7.bin B_EX120_HB.a.fm
+764B8E04.bin B_EX120_HB_LV99.a.fm
+
+1E010738.bin B_EX110_FRIEND.a.fm
+D9E3267F.bin B_EX110_SKIRMISH.a.fm
+
+33E7D9EC.bin N_NM050_BTL.a.fm
+A59BC41A.bin N_NM050_BTL_TOY.a.fm
+
+3C6B53C7.bin P_EX200.a.fm
+A2C583E5.bin P_EX220.a.fm
+
+3DD34C69.bin N_NM060_BTL.a.fm
+C64AFA3B.bin N_NM060_BTL_TOY.a.fm
+
+486FC535.bin B_EX170.a.fm
+9AE84F43.bin B_EX170_LV99.a.fm
+
+6A77872B.bin N_WI010_BTL.a.fm
+8911E551.bin N_WI010_BTL_VS.a.fm
+
+71335EC7.bin PO06_N_PO010.a.fm
+D3FEA890.bin PO08_N_PO010.a.fm
+
+71F378C6.bin B_EX130.a.fm
+8533C35B.bin B_EX130_LV99.a.fm
+
+8ADE0557.bin B_EX110.a.fm
+EF5DA8E4.bin B_EX110_LV99.a.fm
+
+92F36A49.bin B_EX140.a.fm
+99967D06.bin B_EX140_LV99.a.fm
+
+9505894F.bin B_EX150.a.fm
+D6C11517.bin B_EX150_LV99.a.fm
+
+A4BE0AED.bin N_EX760_BTL_CLSM.a.fm
+E657204A.bin N_EX760_BTL_HERCULES.a.fm
+
+C7B95C2E.bin N_EX610_BTL.a.fm
+DD59FA85.bin N_EX610_BTL2.a.fm
+
+0961808E.bin dc0_goofy.vsb
+2445A440.bin hb0_goofy.vsb
+6CB82078.bin tt0_goofy.vsb
+D704D9A6.bin wi0_goofy.vsb
+
+0C02E410.bin dc0_donald.vsb
+268E7C0F.bin hb0_donald.vsb
+6EC2BFEC.bin tt0_donald.vsb
+E30841DF.bin wi0_donald.vsb
+
+48BF06E3.bin lm0_sora.vsb
+E025B0C0.bin po0_sora.vsb
+
+6182496A.bin hb0_sora.vsb
+806E0575.bin tt0_sora.vsb
+EB8C32D8.bin wi0_sora.vsb
+
